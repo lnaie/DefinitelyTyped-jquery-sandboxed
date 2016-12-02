@@ -1,0 +1,22 @@
+{
+  "name": "jquery-sandboxed",
+  "version": "2.0.34",
+  "description": "Custom release of the npm package @types/jquery where jquery doesn't rely on global $.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests needed\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lnaie/DefinitelyTyped-jquery-sandboxed.git"
+  },
+  "author": "Lucian Naie <lucian.naie@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lnaie/DefinitelyTyped-jquery-sandboxed/issues"
+  },
+  "homepage": "https://github.com/lnaie/DefinitelyTyped-jquery-sandboxed#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}
